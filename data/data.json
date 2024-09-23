@@ -1,0 +1,76 @@
+[
+  {
+    "id": 3,
+    "name": "anirudh",
+    "email": "anirudh@gmail.com",
+    "phone": "9874563210",
+    "magazine": {
+      "street": "",
+      "street2": "",
+      "city": "",
+      "zip": "",
+      "state": "",
+      "magazineName": "School Master",
+      "subscriptionStartDate": "2024-09-19",
+      "expiryDate": "2024-10-19"
+    },
+    "type": "Subscriber"
+  },
+  {
+    "id": 4,
+    "name": "amar",
+    "email": "amar@gmail.com",
+    "phone": "9874563210",
+    "magazine": {
+      "street": "",
+      "street2": "",
+      "city": "",
+      "zip": "",
+      "state": "",
+      "magazineName": "Exam Winner",
+      "subscriptionStartDate": "2024-09-19",
+      "expiryDate": "2024-10-19"
+    },
+    "type": "Subscriber"
+  },
+  {
+    "id": 5,
+    "name": "MARIA",
+    "email": "maria@gmail.com",
+    "phone": "987456321",
+    "magazine": null,
+    "type": "Normal Customer"
+  },
+  {
+    "id": 6,
+    "name": "amrita",
+    "email": "amrita@gmail.com",
+    "phone": "9874563210",
+    "magazine": {
+      "street": "",
+      "street2": "",
+      "city": "",
+      "zip": "",
+      "state": "",
+      "magazineName": "School Master",
+      "subscriptionStartDate": "9/20/2024"
+    },
+    "type": "Subscriber"
+  },
+  {
+    "id": 5,
+    "name": "Yadhu",
+    "email": "Yadhu@gmail.com",
+    "phone": "9874563210",
+    "magazine": {
+      "street": "Fffff",
+      "street2": "Fffff",
+      "city": "Calicut",
+      "zip": "66666",
+      "state": "Kerala",
+      "magazineName": "School Master",
+      "subscriptionStartDate": ""
+    },
+    "type": "Subscriber"
+  }
+]
